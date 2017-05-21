@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manul Singhe\Desktop\vv\1\NeutroApplication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Manul Singhe\Desktop\vv\1\NeutroApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a5214103ca69b90354806c5def2d88b9acdab0e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manul Singhe\Desktop\vv\1\NeutroApplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d3e40202d5f4f00156fa550e93e2ba93b599dd6">
+        <dex dex="C:\Users\Manul Singhe\Desktop\vv\1\NeutroApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_59145c84d42977d4a22abbccd64a8ffc70274220\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NeutroApplication</string>
+    <string-array name="juiceTypes">
+        <item>Select Juice</item>
+        <item>Carrot</item>
+        <item>Mango</item>
+        <item>Orange</item>
+    </string-array>
+    
+    <string-array name="bluetooth">
+        <item>Select Device</item>
+        <item>HC-06</item>
+        <item>Samsung J7</item>
+        <item>Nexus 04</item>
+        <item>K NOTE 3</item>
+    </string-array>
+</resources>
